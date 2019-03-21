@@ -1,0 +1,58 @@
+
+3225800927100Dated As: ________23/07/2018______
+Purchase Order #: _12345_______________
+00Dated As: ________23/07/2018______
+Purchase Order #: _12345_______________
+-247650619125Company Phone: 555-555-555555
+Website: www.websiteaddress.com 
+Email: abc@example.com
+Company Address Goes Here
+City, State, Zip Code
+00Company Phone: 555-555-555555
+Website: www.websiteaddress.com 
+Email: abc@example.com
+Company Address Goes Here
+City, State, Zip Code
+-381000-361950Purchase Order Template
+00Purchase Order Template
+7531106696075____________________________
+[Signatures of Authorized Person]
+[Write Designation Here]
+00____________________________
+[Signatures of Authorized Person]
+[Write Designation Here]
+-2095507210425Additional Notes:
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+00Additional Notes:
+____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+-2190753781425Details Quantity Unit Price Total
+EnterpriseDB Subscription 4 1000 USD 4000 USD
+SUBTOTAL TAX TOTAL USD 4000
+00Details Quantity Unit Price Total
+EnterpriseDB Subscription 4 1000 USD 4000 USD
+SUBTOTAL TAX TOTAL USD 4000
+-2476502571750Shipped From: 
+00Shipped From: 
+-2667001800225Vendor Name: ____Abc Inc________________________________________________
+Company Name: Something Pte Ltd______________________________________
+Address: 11-11, TPP Building, Singapore 
+City, State, Zip Code 012345              Phone: 999-999123
+00Vendor Name: ____Abc Inc________________________________________________
+Company Name: Something Pte Ltd______________________________________
+Address: 11-11, TPP Building, Singapore 
+City, State, Zip Code 012345              Phone: 999-999123
+-2476501485900Shipped To:
+00Shipped To:
+-2476502905125Name: ___SAMEER KUMAR______________________________________________________
+Company Name: ASHNIK PTE LTD
+Address: 11-718, 36 ROBINSON ROAD
+City, State, Zip Code 012244                    Phone: 12-340011
+00Name: ___SAMEER KUMAR______________________________________________________
+Company Name: ASHNIK PTE LTD
+Address: 11-718, 36 ROBINSON ROAD
+City, State, Zip Code 012244                    Phone: 12-340011
+-180975150495000657225-85725XYZ Inc
+00XYZ Inc
+4048125457200Purchase Order
+00Purchase Order
+-314325-31432500

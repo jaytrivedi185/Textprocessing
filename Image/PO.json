@@ -1,0 +1,12 @@
+[
+    {
+        "Doctype": "PURCHASE",
+        "Orderingcompany": "",
+        "Suppliercompany": "",
+        "shipto": "",
+        "ponum": "",
+        "Podate": "",
+        "totalamount": "",
+        "currency": ""
+    }
+]

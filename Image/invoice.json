@@ -1,0 +1,13 @@
+[
+    {
+        "Doctype": "INVOICE",
+        "Suppliercompany": "",
+        "billto": "",
+        "shipto": "",
+        "invoicenum": "",
+        "ponum": "",
+        "invoicedate": "",
+        "totalamount": "",
+        "currency": ""
+    }
+]
